@@ -16,8 +16,9 @@ Projede temel olarak [AIDE (AI-generated Image DEtector with Hybrid Features)](h
 
 ## 👨‍💻 Geliştiriciler
 
-- **İhsan Kayacı**
 - **Ali Berkay Taşbölen**
+- **İhsan Kayacı**
+
 
 ## 🗂️ Proje Yapısı
 
